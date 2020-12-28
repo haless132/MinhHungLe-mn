@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Paul Nguyen - Passionate Web Developer, Frontend Trainer
+# MinhHungLe - Passionate Web Developer, Frontend Trainer
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
